@@ -1,0 +1,33 @@
+/* Leafor design tokens (technical design §13.1). */
+:root {
+  --leafor-primary: #164f47;
+  --leafor-primary-hover: #1e665c;
+  --leafor-primary-soft: #dfe9e5;
+  --leafor-primary-ink: #0f3a34;
+  --leafor-bg: #fafaf8;
+  --leafor-surface: #ffffff;
+  --leafor-surface-muted: #f1f2f0;
+  --leafor-surface-sunken: #ebede9;
+  --leafor-text: #17211f;
+  --leafor-muted: #6e7773;
+  --leafor-faint: #a3aaa6;
+  --leafor-border: #e3e8e4;
+  --leafor-border-strong: #cfd6d1;
+  --leafor-danger: #a8473a;
+  --leafor-warning: #b88a2e;
+  --leafor-paper: #fcfbf8;
+
+  /* All Chinese UI, headings, navigation and body text default to Song. */
+  --leafor-font-serif: "SimSun", "宋体", "Songti SC", "STSong", "Source Han Serif SC", "Noto Serif CJK SC", "Noto Serif SC", serif;
+  --leafor-font-latin-serif: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, "Times New Roman", serif;
+  --leafor-font-mono: "Cascadia Mono", "Consolas", "JetBrains Mono", "Noto Sans Mono CJK SC", monospace;
+
+  --leafor-icon-rail-width: 52px;
+  --leafor-toc-width: 204px;
+  --leafor-topbar-height: 52px;
+  --leafor-card-radius: 4px;
+  --leafor-radius: 6px;
+  --leafor-shadow-pop: 0 8px 28px rgba(15, 40, 35, 0.14), 0 1px 3px rgba(15, 40, 35, 0.08);
+  --leafor-shadow-card: 0 1px 2px rgba(15, 40, 35, 0.06);
+  --leafor-focus: 0 0 0 2px rgba(22, 79, 71, 0.35);
+}

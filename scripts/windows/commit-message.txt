@@ -1,0 +1,11 @@
+Leafor 0.1.0: local-first portfolio library and writing studio
+
+Tauri 2 + React + TypeScript desktop app implementing the product spec v0.3
+and technical design v0.1: library & collections, Markdown/LaTeX editor,
+books with reading mode and print layout to PDF, blogs, article series,
+photo albums, read-only PDF archive, tags/statuses, search, import/export,
+autosave with conflict detection and crash recovery. Includes bilingual
+README, user guides (EN / zh-TW), tests and Windows build scripts.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01JHcR4UQC9wVPAk9S7NEgDZ
